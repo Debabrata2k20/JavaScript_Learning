@@ -1,1 +1,2 @@
-This Repo is for practicing JavaScript.
+This Repo is for practicing JavaScript. 
+#JavaScript
